@@ -9,7 +9,7 @@ Atualmente possuo 18 anos e estudo Sistemas de Informação na Universidade de S
 ###
 
 Algumas linguagens de programação que tenho conhecimento:
-<div>
+<div margin-bottom="15px">
   <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
