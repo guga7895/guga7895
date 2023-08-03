@@ -4,7 +4,7 @@ Atualmente possuo 18 anos e estudo Sistemas de Informação na Universidade de S
 
 ###
 
-[![Gustavo Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=guga7895&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Gustavo Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=guga7895&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
