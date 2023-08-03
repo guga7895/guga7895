@@ -6,6 +6,8 @@ Atualmente possuo 18 anos e estudo Sistemas de Informação na Universidade de S
 
 [![Gustavo Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=guga7895&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guga7895)](https://github.com/anuraghazra/github-readme-stats)
+
 ###
 
 Algumas linguagens de programação que tenho conhecimento:
@@ -16,9 +18,6 @@ Algumas linguagens de programação que tenho conhecimento:
   <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />    
   <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  
-
-  <img>
 </div>
 <!--
 **guga7895/guga7895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
