@@ -17,7 +17,10 @@ Algumas linguagens de programação que tenho conhecimento:
   <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guga7895&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+###
 <!--
 **guga7895/guga7895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
