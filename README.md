@@ -9,7 +9,7 @@ Atualmente possuo 18 anos e estudo Sistemas de Informação na Universidade de S
 ###
 
 Algumas linguagens de programação que tenho conhecimento:
-<div margin-bottom="15px">
+<div>
   <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -18,9 +18,11 @@ Algumas linguagens de programação que tenho conhecimento:
   <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
 
+###
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guga7895&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-###
+
 <!--
 **guga7895/guga7895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
