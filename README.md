@@ -2,9 +2,9 @@
 
 ##
 
-Atualmente possuo 18 anos e estudo Sistemas de Informação na Universidade de São Paulo 💻
+*Atualmente possuo 18 anos e estudo Sistemas de Informação na Universidade de São Paulo 💻
 
-Para contato: guga7894@gmail.com ✉
+*Para contato: guga7894@gmail.com ✉
 
 ###
 
