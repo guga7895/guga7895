@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá! Bem vindo ao meu perfil do Github :)
+
+### Atualmente possuo 18 anos e estudo Sistemas de Informação na EACH-USP 💻
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guga7895)](https://github.com/anuraghazra/github-readme-stats)
 
