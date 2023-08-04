@@ -8,7 +8,7 @@
 
 ###
 
-[![Gustavo Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=guga7895&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Gustavo Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=guga7895&show_icons=true&theme=dracula)](https://github.com/guga7895/github-readme-stats)
 
 ##
 
