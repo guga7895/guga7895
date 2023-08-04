@@ -22,7 +22,7 @@ Algumas linguagens de programação que tenho conhecimento:
   <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guga7895&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guga7895&layout=compact&theme=dracula)](https://github.com/guga7895/github-readme-stats)
 
 ##
 <!--
