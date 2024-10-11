@@ -2,7 +2,9 @@
 
 ##
 
-* Atualmente possuo 19 anos e estudo Sistemas de Informação na Universidade de São Paulo 💻
+* Atualmente possuo 20 anos e estudo Sistemas de Informação na Universidade de São Paulo 💻
+
+* Estagiário na Johnson & Johnson - Business Technology
 
 * Para contato: guga7894@gmail.com ✉
 
